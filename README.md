@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Adedeji Joshua...
-- 👀 I’m interested in ...Web Design/Development, Software Engineering, App/Game development
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Software Devlopement and System Architecture
-- 📫 How to reach me ...
-WhatsApp- 09016618545 
-<!---
-adedejijoshua/adedejijoshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+using System;
+using System.Linq;
+using System.Text;
+namespace Myfirstproject.day1.examples
+{
+class ExampleOne
+static void Main(string[] args)
+{
+/ output text to screen
+Console .WriteLine("welcome to csc212 class");
+Console WriteLine ("my name is Akinyemi Paul");
+I* this command prompts the user for input, which is
+" stored in a string variable calledlakinyeni paul*/ string paul - Console.ReadLine();
+Console.WriteLine ("my name is akinyemi string paul - Console.ReadLine(),;
+Console.WriteLine("my name is akinyemi paul");
+string Username;
+int Age;
+string MatricNumber;
+Console.WriteLine("what do you think your name is");
+Username - Console ReadLine();
+Console.writeLine("how old are you");
+Age - Convert. Tolnt32(Console. ReadLine ());
+Console.WriteLine("what is your matric number");
+MatricNumber - Console ReadLine();
+/outputing the accepted values
+Console.WriteLine(" Your name is
++ Username + " Your age 1
